@@ -1,0 +1,2 @@
+-- DEFAULT FSX AIRCRAFT
+-- All actions are fallbacked

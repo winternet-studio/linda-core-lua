@@ -1,0 +1,1 @@
+simfolder = "_fsx_sim_object_search_string_"

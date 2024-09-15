@@ -1,0 +1,27 @@
+3C00:ST:255:Air file path
+2B00:DB:DEC::GPS heading (with drift)
+0D0C:UW:BIN::Lights bits
+66C0:UB:DEC:*1/1:LINDA reload configs
+66C1:ST:50:LINDA commands pipe
+08B2:UD:DEC:*1/1:Carb Heat
+094A:UD:DEC:*1/1:Carb Heat 2
+057C:UD:DEC:/360*65536/65536:Bank
+30C0:DB:DEC:*1/1:Total weight
+3BFC:UW:DEC:/256:Total weight
+0894:UW:BIN::Engine Start Switch
+3E00:ST:256:FS Path
+3308:UW:DEC:*1/1:FSType
+3D00:ST:256:Aircraft
+3124:UB:DEC:*1/1:FS Ver
+07D4:UW:DEC:*1/1:APHeight
+07D4:UD:DEC:*1/65536:Get Altitude
+3102:UB:DEC:*1/1:Battery
+034E:UW:HEX::COM1 act
+311A:UW:HEX::COM1 sby
+05C4:UD:DEC:*1/1:COM1 act
+05CC:UD:DEC:*1/1:COM1 sby
+34A0:DB:DEC:*1/1:QNH
+3C00:ST:256:AirFile
+3D00:ST:256:AircraftName
+0798:UD:DEC:*1/65536*3.29:FCU Altitude
+05E8:UW:DEC:*1/16385:VS
